@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Battle for Bakhmut 'stabilising', says commander - BBC",
+            "description": "Despite Russia spending months trying to take the city, Ukrainian officials say they are holding on.",
+            "url": "https://www.bbc.com/news/world-europe-65072173",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97F8/production/_129140983_bakhmut.jpg",
+            "publishedAt": "2023-03-25T07:48:41Z",
+            "content": "The battle for Bakhmut, the Ukrainian city which Russia has spent months trying to capture, is \"stabilising\", says Ukraine's commander-in-chief.\r\nValerii Zaluzhnyi said Ukrainian troops' \"tremendous … [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Andrea Blanco",
+            "title": "Gwyneth Paltrow trial – live: Actor tells court she initially thought skiing accident was ‘sexual assault’ - The Independent",
+            "description": "Goop founder faces civil lawsuit regarding 2016 skiing accident involving retired optometrist Terry Sanderson at Deer Valley resort",
+            "url": "https://www.independent.co.uk/news/world/americas/gwyneth-paltrow-testimony-ski-collision-accident-trial-b2307838.html",
+            "urlToImage": "https://static.independent.co.uk/2023/03/24/05/Gwyneth_Paltrow_Skiing_Lawsuit_33091.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-03-25T07:45:07Z",
+            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nGwyneth Paltrow says she briefly thought a 2016 ski collision was in fa… [+7336 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Will McDuffie",
+            "title": "7 dead in 'destructive' Mississippi tornado, official says - ABC News",
+            "description": "A deadly tornado touched down in Mississippi, officials said.",
+            "url": "https://abcnews.go.com/US/7-dead-mississippi-tornado-official/story?id=98117564",
+            "urlToImage": "https://s.abcnews.com/images/US/mississipppi-tornado_1679721477403_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-03-25T06:08:55Z",
+            "content": "At least seven people died in a \"destructive\" tornado that rolled across Mississippi late Friday, leaving a trail of damage for more than 100 miles, local and federal authorities said.\r\nSearch and re… [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Patrick Reilly",
+            "title": "At least 2 dead, 9 missing after chocolate factory explodes in Pennsylvania - New York Post ",
+            "description": "At least two people were killed and nine are missing after a massive explosion at a Pennsylvania chocolate factory on Friday, officials said.",
+            "url": "https://nypost.com/2023/03/25/pennsylvania-chocolate-factory-explosion-kills-at-least-2-people-9-missing/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/chrome-capture-2023-2-25-3.gif?w=1024",
+            "publishedAt": "2023-03-25T04:49:00Z",
+            "content": "At least two people were killed and nine are missing after a massive explosion at a Pennsylvania chocolate factory on Friday, officials said.\r\nA violent blast at the RM Palmer Company plant rocked th… [+2024 chars]"
+        }
+        
+    ]
+}
